@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Devamsizlık Takip Çizelgesi</string>
+    <string name="action_settings">Ayarlar</string>
+    <string-array name="dersler">
+        <item>Ruby</item>
+        <item>İngilizce</item>
+        <item>Bilgisayar Mimarisi</item>
+        <item>Linux</item>
+        <item>Veri Güvenliği</item>
+        <item>Kriptoloji</item>
+
+    </string-array>
+
+    <string name="hakkında">hakkında bölümü </string>
+
+
+</resources>
